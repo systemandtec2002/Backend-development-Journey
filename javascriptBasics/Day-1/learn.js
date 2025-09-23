@@ -43,9 +43,7 @@ console.log(age);
 
 // if i try to add before %(modulus operator) it will give me a error.
 
-// Invalid left-hand side in assignment see this will show you error
- let name = "mayuri";
- console.log(name);
+
 
 
 //  DATA TYPES IN JAVASCRIPT
@@ -56,7 +54,7 @@ console.log(age);
 //  string is basically sequence of Characters which is enclosed in single or double characters.
 
 
-let name = "mayuri";
+
 
 // another way to write a string using single quotes.
 
@@ -142,8 +140,7 @@ console.log(id === id2); //it will give me false because each symbol is unique;
 
   console.log(typeof age); //it will give me a number
 
-  console.log(typeof name); // it will give me a string
-
+ 
   console.log(typeof isWorking); // it will give me a boolean
 
   console.log(typeof person); // it will give me object
