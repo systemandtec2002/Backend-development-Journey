@@ -7,11 +7,11 @@
 
 // var is the old way of declaring the variable in javascript.
 
-var name = "mayuri"; 10
+var name = "mayuri"; 
 
 // here i reassign value of name varible.
-name = 'megha'; 13
-console.log(name); 14
+name = 'megha'; 
+console.log(name); 
 
 // but now we use let and const to declare the varible in javascript.
 
@@ -44,7 +44,7 @@ console.log(age);
 // if i try to add before %(modulus operator) it will give me a error.
 
 // Invalid left-hand side in assignment see this will show you error
- let %name = mayuri;
+ let name = "mayuri";
  console.log(name);
 
 
@@ -66,6 +66,7 @@ let name = 'mayuri';
 // Numeric data type
 let age = 23;
 console.log(age);
+
 // we can also use decimal values in javascript.
 let marks = 69.9;
 

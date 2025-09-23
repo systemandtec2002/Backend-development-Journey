@@ -89,8 +89,8 @@ console.log(w | z);
 console.log(w ^ z);
 
 // increment and decrement operator
- let s = 10;
-  s = s++; //post increment here what happened usally first assign then incerement
- s = ++s;  //pre increment here first assign then increment
+ let u = 10;
+  u = u++; //post increment here what happened usally first assign then incerement
+ u = ++u;  //pre increment here first assign then increment
 
 
